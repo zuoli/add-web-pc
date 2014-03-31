@@ -1,0 +1,54 @@
+html,body {
+    width: 100%;
+    height: auto;
+}
+body {
+    overflow:visible;
+}
+section, footer {
+    display:block;
+}
+.page-wrapper, .slide, slide-content {
+    height: auto;
+}
+.slide {
+    position:relative;
+}
+.sec01 {
+    height: 1000px;
+}
+.sec02 {
+    height: 950px;
+}
+.phones-wrapper-outer{
+    position:relative;
+}
+.phone-center {
+    bottom:0px;
+}
+.phone-left {
+    left: 0px;
+    visibility: visible;
+}
+.phone-right {
+    right: 0px;
+    visibility: visible;
+}
+.sec03 {
+    height: 800px;
+}
+.sec04 {
+    height: 900px;
+}
+.sec4-up {
+    height: 280px;
+}
+.sec4-down {
+    height: 620px;
+}
+.sec05 {
+    height: 960px;
+}
+footer {
+    position:static;
+}

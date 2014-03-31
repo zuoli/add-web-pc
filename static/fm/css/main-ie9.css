@@ -1,0 +1,12 @@
+.page-wrapper.slide-2 {
+    -ms-transform: translate(0, -100%);
+}
+.page-wrapper.slide-3 {
+    -ms-transform: translate(0, -200%);
+}
+.page-wrapper.slide-4 {
+    -ms-transform: translate(0, -300%);
+}
+.page-wrapper.slide-5 {
+    -ms-transform: translate(0, -400%);
+}
